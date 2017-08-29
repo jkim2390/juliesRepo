@@ -2,7 +2,8 @@ package pkgch1;
 
 import java.util.Scanner;
 
-public class Qs1_4 {
+public class Qs1_4 {  
+	
 
 	public void printRet() {
 
